@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jcommon-1.0.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Lab9_OrsonPDF/LIB/jcommon-1.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Lab9_OrsonPDF/LIB/jfreechart-1.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Lab9_OrsonPDF/LIB/orsonpdf-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

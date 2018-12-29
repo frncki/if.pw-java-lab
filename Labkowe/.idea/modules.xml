@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Programy/JavaWyklad4/JavaWyklad4.iml" filepath="$PROJECT_DIR$/Programy/JavaWyklad4/JavaWyklad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programy/Program1.ZadB/Program1.ZadB.iml" filepath="$PROJECT_DIR$/Programy/Program1.ZadB/Program1.ZadB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programy/Program1.ZadC/Program1.ZadC.iml" filepath="$PROJECT_DIR$/Programy/Program1.ZadC/Program1.ZadC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programy/Zad2/Zad2.iml" filepath="$PROJECT_DIR$/Programy/Zad2/Zad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programy/Zad3/Zad3.iml" filepath="$PROJECT_DIR$/Programy/Zad3/Zad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programy/Zad4/Zad4.iml" filepath="$PROJECT_DIR$/Programy/Zad4/Zad4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zad6/Zad6.iml" filepath="$PROJECT_DIR$/Zad6/Zad6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programy/Zad2/Zad6.iml" filepath="$PROJECT_DIR$/Programy/Zad2/Zad6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programy/ZadC2/ZadC2.iml" filepath="$PROJECT_DIR$/Programy/ZadC2/ZadC2.iml" />
+    </modules>
+  </component>
+</project>

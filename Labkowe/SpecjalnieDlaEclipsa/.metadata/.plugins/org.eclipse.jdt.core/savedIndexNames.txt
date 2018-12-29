@@ -1,0 +1,14 @@
+INDEX VERSION 1.130+/Users/juleswinnfield/Documents/Programowanie/Java/Labkowe/SpecjalnieDlaEclipsa/.metadata/.plugins/org.eclipse.jdt.core
+4067826494.index
+1313864678.index
+81807016.index
+1828089775.index
+1320998183.index
+2504728104.index
+3265206239.index
+736346834.index
+491311550.index
+31751584.index
+3768636500.index
+1692018654.index
+3485293982.index

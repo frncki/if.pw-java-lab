@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jcommon-1.0.21">
+    <archive path="E:/Moje Dokumenty/Studia/Programowanie Obiektowe/Lab9_OrsonPDF/LIB/jcommon-1.0.21.jar" />
+    <archive path="E:/Moje Dokumenty/Studia/Programowanie Obiektowe/Lab9_OrsonPDF/LIB/jfreechart-1.0.17.jar" />
+    <archive path="E:/Moje Dokumenty/Studia/Programowanie Obiektowe/Lab9_OrsonPDF/LIB/orsonpdf-1.7.jar" />
+  </library>
+</eclipse-userlibraries>
+

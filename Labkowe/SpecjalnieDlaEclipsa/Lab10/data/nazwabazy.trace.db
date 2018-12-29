@@ -1,0 +1,59 @@
+2018-04-25 02:14:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Nieprawidłowa wartość "null" parametru "SQL"
+Invalid value "null" for parameter "SQL" [90008-197]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:357)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.getInvalidValueException(DbException.java:240)
+	at org.h2.jdbc.JdbcConnection.translateSQL(JdbcConnection.java:1338)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:216)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:205)
+	at pl.edu.pw.fizyka.java.lab10.DatabaseWorker$1.doInBackground(DatabaseWorker.java:23)
+	at pl.edu.pw.fizyka.java.lab10.DatabaseWorker$1.doInBackground(DatabaseWorker.java:1)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+2018-04-25 02:14:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Nieprawidłowa wartość "null" parametru "SQL"
+Invalid value "null" for parameter "SQL" [90008-197]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:357)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.getInvalidValueException(DbException.java:240)
+	at org.h2.jdbc.JdbcConnection.translateSQL(JdbcConnection.java:1338)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:216)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:205)
+	at pl.edu.pw.fizyka.java.lab10.DatabaseWorker$1.doInBackground(DatabaseWorker.java:23)
+	at pl.edu.pw.fizyka.java.lab10.DatabaseWorker$1.doInBackground(DatabaseWorker.java:1)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+2018-04-25 02:15:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Błąd składniowy w wyrażeniu SQL "ASDASD[*] "; oczekiwano "ALTER, ANALYZE, {"
+Syntax error in SQL statement "ASDASD[*] "; expected "ALTER, ANALYZE, {"; SQL statement:
+asdasd [42001-197]
+2018-04-25 02:16:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Baza danych jest już zamknięta (aby zablokować samoczynne zamykanie podczas zamknięcia VM dodaj ";DB_CLOSE_ON_EXIT=FALSE" do URL bazy danych)
+Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-197]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:357)
+	at org.h2.message.DbException.get(DbException.java:179)
+	at org.h2.message.DbException.get(DbException.java:155)
+	at org.h2.message.DbException.get(DbException.java:144)
+	at org.h2.jdbc.JdbcConnection.checkClosed(JdbcConnection.java:1526)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:1201)
+	at org.h2.jdbc.JdbcStatement.checkClosed(JdbcStatement.java:1175)
+	at org.h2.jdbc.JdbcResultSet.checkClosed(JdbcResultSet.java:3205)
+	at org.h2.jdbc.JdbcResultSetMetaData.checkClosed(JdbcResultSetMetaData.java:437)
+	at org.h2.jdbc.JdbcResultSetMetaData.getColumnCount(JdbcResultSetMetaData.java:49)
+	at pl.edu.pw.fizyka.java.lab10.DatabaseWorker$1.doInBackground(DatabaseWorker.java:40)
+	at pl.edu.pw.fizyka.java.lab10.DatabaseWorker$1.doInBackground(DatabaseWorker.java:1)
+	at java.desktop/javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.desktop/javax.swing.SwingWorker.run(SwingWorker.java:334)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.base/java.lang.Thread.run(Thread.java:844)

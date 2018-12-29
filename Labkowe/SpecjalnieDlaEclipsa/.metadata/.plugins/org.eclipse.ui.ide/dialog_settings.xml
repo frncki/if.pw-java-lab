@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/juleswinnfield/Documents/Programowanie/Java/Labkowe/SpecjalnieDlaEclipsa/KolokwiumJAVA"/>
+		<item value="/Users/juleswinnfield/Documents/Programowanie/Java/Labkowe/SpecjalnieDlaEclipsa/Lab10"/>
+		<item value="/Users/juleswinnfield/Documents/Programowanie/Java/Labkowe/SpecjalnieDlaEclipsa/Lab9"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="/Users/juleswinnfield/Documents/Programowanie/Java/Labkowe/SpecjalnieDlaEclipsa/lab8.zip"/>
+		</list>
+	</section>
+</section>
